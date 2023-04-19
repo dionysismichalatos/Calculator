@@ -3,9 +3,11 @@
 This is a simple calculator web application built with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The application is responsive and can be used on desktop and mobile devices.
 
 ##Usage
+
 To use the calculator, simply click on the buttons to input numbers and operators. The C button can be used to clear the display and the = button can be used to calculate the result. The result box displays the result of the arithmetic operation.
 
 ##Features
+
 Responsive design for desktop and mobile devices
 Basic arithmetic operations (addition, subtraction, multiplication, division)
 Clear button to reset the display
